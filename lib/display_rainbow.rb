@@ -8,3 +8,4 @@ def print_business_card(person)
 end
 
 print_business_card(bob)
+print_business_card(stefani)
